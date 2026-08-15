@@ -278,10 +278,4 @@ streak-daily-pulse/
 
 ---
 
-## Built By
-
-**Jay Joshi** — Dategain Developer Challenge, Round 2
-
----
-
 *Real prices. One guess. No do-overs.*
